@@ -31,6 +31,7 @@ body{
 
 #wrong{
     height: 1rem; width: 1rem;
+    color:black;
 }
 .content{
     font-size: 20px; margin-top: -5px;
